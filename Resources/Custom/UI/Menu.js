@@ -11,7 +11,7 @@ function Menu(title){
                 textAlign:'center',
                 width:'auto',
                 height:'auto',
-                bottom:40,
+                bottom:10,
                 font:{fontFamily:'Arial',fontWeight:'bold',fontSize:24},
                 color:'#000000'
             });
